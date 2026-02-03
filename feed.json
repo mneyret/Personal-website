@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Personal website",
+    "description": "",
+    "home_page_url": "https://neyret.me",
+    "feed_url": "https://neyret.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Margot Neyret"
+    },
+    "items": [
+    ]
+}
